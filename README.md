@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋. I'm a second year student at the University of Bath. Here are some of the things I've worked on.
 
 <!--
 **gabrielh-so/gabrielh-so** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
